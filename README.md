@@ -1,2 +1,3 @@
-# laptoppcgamer2016.github.io
-a website im making
+# http://laptoppcgamer2016.duckdns.org/
+
+my website
