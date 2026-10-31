@@ -1,3 +1,3 @@
-# http://laptoppcgamer2016.duckdns.org/
+# http://laptoppcgamer2016.github.io
 
 my website
